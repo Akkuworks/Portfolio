@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Java Fullstack Developer",
+      "organisation": "Code Planet",
+      "startDate": "July, 2023",
+      "endDate": "Dec 2023",
+      "experiences": ["Developed & implemented backend functionalities using Java & Springboot, ensuring seamless integration with frontend components.", "Collaborated with the team to optimize database queries, enhancing application speed and implemented robust data structures to solve complex programming challenges,effectively contributing to the overall system stability."],
+      "imageSrc": "history/google.png"
+    }
+  ]
